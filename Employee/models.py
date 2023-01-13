@@ -10,4 +10,3 @@ class Example(models.Model):
     emp_code = models.CharField(max_length=300)
 
 
-    # comment
